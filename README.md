@@ -198,7 +198,7 @@ The scope is the accessibility of variables, functions, or objects in some parti
 The scope of a variable or a function is the part of the code in which it is available.
 
 
-An example of these "so-colled" scopes that some of us surely faced at some point:
+An example of a bug some of you surely faced at some point cased of these so-called "scopes":
 ```javascript
     function someFunction() {
         let someString = "Hello World!"; // local scope variable (bear with me)
@@ -365,7 +365,7 @@ The full markup and code for this example looks as follows:
 ```
 If you run this example, we'll see a dialog displaying the number of milliseconds it took between your timer variable getting initialized, your for loop running to completion, and the timer variable getting invoked as a function.
 
-video reference"https://www.youtube.com/watch?v=rBBwrBRoOOY&feature=emb_title
+video reference: https://www.youtube.com/watch?v=rBBwrBRoOOY&feature=emb_title
 
 
 
